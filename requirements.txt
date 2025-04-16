@@ -1,0 +1,4 @@
+Django
+firebase-admin
+gunicorn
+python-dotenv
